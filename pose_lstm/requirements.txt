@@ -1,0 +1,11 @@
+mediapipe==0.10.14
+opencv-python==4.10.0.84
+torch==2.4.1
+torchvision==0.19.1
+torchaudio==2.4.1
+numpy==2.1.2
+pandas==2.2.3
+scikit-learn==1.5.2
+matplotlib==3.9.2
+rich==13.9.2
+tqdm==4.66.5
